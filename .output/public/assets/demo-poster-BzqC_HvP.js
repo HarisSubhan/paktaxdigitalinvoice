@@ -1,0 +1,1 @@
+var e=`/assets/demo-poster-LFyZE-mJ.jpg`;export{e as t};
